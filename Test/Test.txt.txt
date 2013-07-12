@@ -10,7 +10,15 @@ int main()
 
 int main11()
 {
-    int i = 40000;
+    int i = 41000;
+
+
+    return i;
+}
+
+int main22()
+{
+    int i = 50000;
 
 
     return i;
