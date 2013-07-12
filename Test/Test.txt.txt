@@ -3,5 +3,14 @@ int main()
 {
     int i = 100;
 
+    int j = 1000;
+
+    return i+j;
+}
+
+int main11()
+{
+    int i = 10000;
+
     return i;
 }
