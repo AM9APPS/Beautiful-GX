@@ -10,7 +10,8 @@ int main()
 
 int main11()
 {
-    int i = 30000;
+    int i = 40000;
+
 
     return i;
 }
