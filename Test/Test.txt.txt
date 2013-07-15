@@ -18,6 +18,13 @@ int main11()
 
 int main22()
 {
+    int i = 40000;
+
+    return i;
+}
+
+int main333()
+{
     int i = 10000;
 
     return i;
