@@ -18,8 +18,7 @@ int main11()
 
 int main22()
 {
-    int i = 50000;
-
+    int i = 10000;
 
     return i;
 }
