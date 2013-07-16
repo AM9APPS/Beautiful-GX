@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\Github\Beautiful-GX\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+364633526.index
+1562797750.index
